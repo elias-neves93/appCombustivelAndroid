@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/elias/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_41188a458f825ca5c9a0109f3fc15775fe3b9a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_e0867e9573cafa5db5e23f04336a9c856473cf0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="339099d4654d31d0a83b132c7de01a51b7c7356c">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48a8e7df4d84979578aaececad9f0c081125f750/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_78181a9c0b86c4276d41ece71e5ade806be75fb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_bf6c68822111c14aa66660955897751fb5fc88e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_6324e382ce546adbceef1d3ac1601d98e3d01bd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72a392252411cc3176c41a3e95d933e09ce741ee">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01c0eace515562dc836906d4b5ac04c02af957fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_508b450f484ede303162bbf39f43766ac5765aa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_19595b9b7bd9652cd3a3fe2431f9c7a4a6198c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_a3834ad7241bdfa56cd47309fd04a9cd59fac1a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_378b3ddd06a82e14792cdb1330c091aa68d8ec18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_d08dafc2f4976621787ae6965385c08cc8ed69cd/classes.dex" />
+    </item>
+
+</items>

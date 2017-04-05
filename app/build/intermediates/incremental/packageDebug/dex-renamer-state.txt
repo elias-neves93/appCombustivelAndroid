@@ -1,0 +1,7 @@
+#Wed Apr 05 20:47:43 BRT 2017
+base.0=/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48a8e7df4d84979578aaececad9f0c081125f750
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01c0eace515562dc836906d4b5ac04c02af957fb/classes.dex
+base.1=/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01c0eace515562dc836906d4b5ac04c02af957fb
+file.0=/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48a8e7df4d84979578aaececad9f0c081125f750/classes.dex

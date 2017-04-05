@@ -84,6 +84,10 @@
         "source": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/res/merged/debug/drawable/splash.jpg",
+        "source": "/home/elias/AndroidStudioProjects/combustivel/app/src/main/res/drawable/splash.jpg"
+    },
+    {
         "merged": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },

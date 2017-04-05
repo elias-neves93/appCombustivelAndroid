@@ -92,6 +92,10 @@
         "source": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/res/merged/debug/layout/activity_principal.xml",
+        "source": "/home/elias/AndroidStudioProjects/combustivel/app/src/main/res/layout/activity_principal.xml"
+    },
+    {
         "merged": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_popup_menu_item_layout.xml"
     },
@@ -126,6 +130,10 @@
     {
         "merged": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/res/merged/debug/layout/activity_calcular.xml",
+        "source": "/home/elias/AndroidStudioProjects/combustivel/app/src/main/res/layout/activity_calcular.xml"
     },
     {
         "merged": "/home/elias/AndroidStudioProjects/combustivel/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
